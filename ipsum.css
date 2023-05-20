@@ -1,0 +1,79 @@
+.languages{
+    height: 40px;
+    width: 1220px;
+    /*border: 1px solid;*/
+    margin: auto;
+    text-align: center;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+}
+@font-face {
+    font-family: "Dauphin";
+    src: url(Dauphin\ V1.ttf);
+}
+.lorem{
+    font-family: "Dauphin";
+    text-align: center;
+    font-size: 70px;
+    line-height: 90px;
+}
+.ipsum{
+    font-family: "Dauphin";
+}
+.container{
+    height: 800px;
+    width: 1220px;
+    /*border: 1px solid;*/
+    margin: auto;
+}
+
+.headerarea{
+    height: 200px;
+    width: 1220px;
+    /*border: 1px solid;*/
+    text-align: center;
+}
+
+.content{
+    height: 600px;
+    width: 1220px;
+    /*border: 1px solid yellow;*/
+}
+.lefttop{
+    height: 300px;
+    width: 605px;
+    /*border: 1px solid brown;*/
+    display: inline-block;
+    line-height: 20px;
+    font-size: 20px;
+    text-align: justify;
+
+}
+.topright{
+    height: 300px;
+    width: 605px;
+    /*border: 1px solid green;*/
+    display: inline-block;
+    line-height: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+.bottomleft{
+    height: 300px;
+    width: 605px;
+    /*border: 1px solid blue;*/
+    display: inline-block;
+    line-height: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+.bottomright{
+    height: 300px;
+    width: 605px;
+    /*border: 1px solid red;*/
+    display: inline-block;
+    line-height: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
